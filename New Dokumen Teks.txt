@@ -1,0 +1,57 @@
+<p align="center"><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src="	https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="400" alt="Flask Logo"></a></p>
+
+
+## Installation
+
+Install with pip:
+
+```
+$ conda create --name mlops-tfx python==3.9.15
+```
+
+```
+$ conda create --name mlops-tfx python
+```
+
+```
+$ conda activate mlops-tfx
+```
+
+```
+$ conda deactivate
+```
+
+```
+$ python app.py
+```
+
+
+## Running
+
+Running with pip:
+
+```
+$ python app.py
+```
+
+or
+
+```
+$ set FLASK_APP=app.py
+```
+
+```
+$ flask run
+```
+
+## Reference
+
+Offical Website
+
+- [Flask](http://flask.pocoo.org/)
+- [Flask Extension](http://flask.pocoo.org/extensions/)
+- [Flask restplus](http://flask-restplus.readthedocs.io/en/stable/)
+- [Flask-SQLalchemy](http://flask-sqlalchemy.pocoo.org/2.1/)
+- [Flask-OAuth](https://pythonhosted.org/Flask-OAuth/)
+- [elasticsearch-dsl](http://elasticsearch-dsl.readthedocs.io/en/latest/index.html)
+- [gunicorn](http://gunicorn.org/)
